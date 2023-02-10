@@ -1,5 +1,5 @@
 # SirIke ExamsGh
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Isaac-Twumasi-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-IsaacTwumasi-blue)
 ---
 ## screenshots
 ### Homepage
